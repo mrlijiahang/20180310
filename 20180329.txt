@@ -1,0 +1,11 @@
+.$mount 挂在
+ render 底层 h 对app进行渲染
+组件能被其他页面复用
+导入样式
+import ‘ 路径就行’
+router/ psth‘/’components /
+@ 会映射为src
+面包屑 组件
+插槽 span 
+slot 根据名字匹配
+ slot class 插槽
